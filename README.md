@@ -4,7 +4,7 @@ A conversational agent that recommends SHL assessments based on hiring needs. Bu
 
 Instead of manually filtering SHL's product catalog, you describe what you're hiring for (e.g. "I need to hire a Java developer") and the agent asks follow-up questions and returns relevant assessments.
 
-Live demo: https://web-production-4b351.up.railway.app/
+Live demo: https://web-production-4b351.up.railway.app/docs
 Repo: github.com/Shubham-192000/AI-Recommendation-System
 
 ## Architecture
