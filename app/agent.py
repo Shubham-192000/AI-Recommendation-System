@@ -2,6 +2,8 @@ import json, os, re
 from typing import List, Dict
 from groq import Groq
 from pydantic import BaseModel
+import sys, os
+sys.path.insert(0, os.path.dirname(__file__))
 from retrieval import get_retriever
 
 class Recommendation(BaseModel):
